@@ -9,10 +9,10 @@ h1.main-style {
 }
 
 h2.main-style {
-	padding: 0.25em 0.5em;/
+	padding: 0.25em 0.5em;
 	color: #494949;
 	background: transparent;
-	border-left:
+	border-left: solid 5px #7db4e6;
 }
 
 h3.main-style {
@@ -23,10 +23,22 @@ h3.main-style {
 	background: #e0edff;
 }
 
-#in-1 table {
-	border-collapse: collapse;
+hr {
+	border-top: 3px solid #7db4e6;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
 }
-#in-1 th, #in-1 td {
+
+#in-1 table {
+	        border-collapse: collapse;
+	}
+#in-1 th,
+#in-1 td {
 	border: 1px solid #8fbac8;
 	padding: 8px;
 }
+
+#in-2 a:hover img {
+	opacity: 0.5;
+}
+
