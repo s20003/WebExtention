@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+/* メインとなる全体のデザイン */
+h1.main-style {
+	padding: 0.5em;
+	color: #010101;
+	background: #eaf3ff;
+	border-bottom: solid 3px #516ab6;
+}
+
+h2.main-style {
+	padding: 0.25em 0.5em;/
+	color: #494949;
+	background: transparent;
+	border-left:
+}
+
+h3.main-style {
+	margin-top: 2.5em;
+	margin-bottom: 2em;
+	position: relative;
+	padding: 0.6em;
+	background: #e0edff;
+}
+
+#in-1 table {
+	border-collapse: collapse;
+}
+#in-1 th, #in-1 td {
+	border: 1px solid #8fbac8;
+	padding: 8px;
+}
