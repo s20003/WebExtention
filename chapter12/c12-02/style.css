@@ -34,8 +34,7 @@ main {
 	*/
 	height: 400px;
 }
-.sidebar1,
-.sidebar2 {
+.sidebar {
 	padding: 20px 10px 20px 10px;
 	background: #c0f5b9;
 }
