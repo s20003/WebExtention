@@ -13,5 +13,6 @@
 9. Chapter09 「[ボックスと情報の整理](chapter09/ch09-boxcss.html)」
 10. Chapter10 「[テーブル](chapter10/ch10-table.html)」 
 11. Chapter11 「[標準的なフォームの例](chapter11/ch11-form.html)」
-12. Chapter12 「[ページ全体のレイアウトとナビゲーション](chapter12/index.html)
-13. Task01 「[ホームページ](Task01/index.html)」
+12. Chapter12 「[ページ全体のレイアウトとナビゲーション](chapter12/index.html)」
+13. Chapter13 「[プログラミングスクールCodera](chapter13/index.html)」
+14. Task01 「[ホームページ](Task01/index.html)」
